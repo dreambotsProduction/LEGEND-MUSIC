@@ -6,7 +6,7 @@
 - [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy/)
 
 ### Deploy To Railway
-[![Deploy+on+Railway](https://railway.app/button.svg
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dreambotsproduction/LEGEND-MUSIC&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 -------------
 
 ## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
